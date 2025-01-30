@@ -83,7 +83,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yaciine19/Yaciine19/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Yaciine19/Yaciine19/blob/output/snake.svg)
 
 ###
 
