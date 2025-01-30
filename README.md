@@ -85,7 +85,7 @@
 ###
 
 <div align="center">
-  <a href="yacineddd32@gmail.com" target="_blank">
+  <a href="mailto:yacineddd32@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/yacine-ragueb-8033a9302/" target="_blank">
