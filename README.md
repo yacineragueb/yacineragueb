@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• 💡 I'm currently working on improving my Frontend Development skills.<br>• 🎨 Passionate about UI/UX design and creating visually appealing interfaces.<br>• 🖌 Experienced in Adobe Illustrator, and Figma for graphic design.<br>• 🚀 Building dynamic and interactive web applications with modern JavaScript frameworks.</p>
+<p align="left">• 💡 I'm currently working on improving my Web Development skills.<br>• 🎨 Passionate about UI/UX design and creating visually appealing interfaces.<br>• 🖌 Experienced in Adobe Illustrator, and Figma for graphic design.<br>• 🚀 Building dynamic and interactive web applications with modern JavaScript frameworks.</p>
 
 ###
 
