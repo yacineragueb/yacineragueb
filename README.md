@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Frontend Web Developer and Graphic Designer, From Algeria.</p>
+<p align="left">I'm a Full-Stack Web Developer and Graphic Designer, From Algeria.</p>
 
 ###
 
