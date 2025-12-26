@@ -1,6 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yacineragueb&label=Profile%20views&color=0e75b6&style=flat" alt="yacineragueb" /> </p>
-
-###
 
 <h1 align="left">Hi, I'm Yacine! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
