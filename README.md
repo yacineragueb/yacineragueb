@@ -1,21 +1,28 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yacineragueb&label=Profile%20views&color=0e75b6&style=flat" alt="yacineragueb" /> </p>
 
-<h1 align="left">Hi, I'm Yacine! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-###
-
-<h2 align="left">🔗 About Me</h2>
+<h1 align="center">Hi, I'm Yacine! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ###
 
-<p align="left">I'm a Full-Stack Web Developer and Graphic Designer, From Algeria.</p>
+<h2 align="center">Full-Stack Web & Desktop Developer | Based in Algeria</h2>
 
 ###
 
-<p align="left">• 💡 I'm currently working on improving my Web Development skills.<br>• 🎨 Passionate about UI/UX design and creating visually appealing interfaces.<br>• 🖌 Experienced in Adobe Illustrator, and Figma for graphic design.<br>• 🚀 Building dynamic and interactive web applications with modern JavaScript frameworks.</p>
+<p align="center">🧑‍💻 Full-Stack Developer focused on building Web & Desktop applications.</p>
+
+<p align="center">🛡️ Cybersecurity student, interested in secure software development and system security.</p>
+
+<p align="center">⚙️ Currently learning and working with .NET (C#) to build robust, scalable systems and applications.</p>
+
+<p align="center">🖥️ Building real-world projects using C#, .NET Core, and modern JavaScript frameworks.</p>
+
+<p align="center">🚀 Passionate about developing scalable, efficient, and interactive applications.</p>
+
+<p align="center">🤝 Open to freelancing and collaboration opportunities.</p>
 
 ###
 
-<h2 align="left">🛠️ Technologies & Skills</h2>
+<h2 align="center">🛠️ Technologies & Skills</h2>
 
 ###
 
@@ -101,11 +108,11 @@
 
 ###
 
-<h2 align="left">📫 Connect with Me</h2>
+<h2 align="center">📫 Connect with Me</h2>
 
 ###
 
-<p align="left">Feel free to reach out to me through any of the following channels:</p>
+<p align="center">Feel free to reach out to me through any of the following channels</p>
 
 ###
 
@@ -120,6 +127,6 @@
 
 ###
 
-<h4 align="left">• Thank you for visition my profile! ✌️</h4>
+<h4 align="center">Thank you for visition my profile! ✌️</h4>
 
 ###
